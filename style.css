@@ -1,0 +1,208 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish' , sans-serif;
+}
+
+:root
+{
+  font-size: 62.5%;
+}
+
+header img
+{
+  height: 37rem;
+  width: 36.4rem;
+
+  padding-left: 3.2rem;
+}
+
+header h1
+{
+  font-size: 3.2rem;
+  font-weight: bold;
+  color: #B52184;
+
+  padding-left: 5.6rem;
+  padding-top: 1.7rem;
+}
+
+header p
+{
+  font-size: 2rem;
+  font-weight: 600;
+  color: #312D64;
+
+  height: 1.4rem;
+  width: 40rem;
+
+  padding-left: 5.3rem;
+  padding-top: .5rem;
+}
+
+.arrow img
+{
+  height: 10.5rem;
+  width: 7rem;
+
+  padding-top: 3.5rem;
+}
+
+main
+{
+  background-color: #312D64;
+  padding-top: 5.3rem;
+}
+
+.card 
+{
+  background-color: white;
+ 
+  height: 33rem;
+  width: 35rem;
+  
+  border-radius: 2rem;
+}
+
+.card img
+{
+  height: 8rem;
+  width: 8rem;
+
+  padding-top: 2.6rem;
+  padding-left: 2.7rem;
+}
+
+.card h2
+{
+  font-size: 2.922rem;
+  font-weight: bold;
+  color:#B52184;
+
+  width: 28rem;
+  height: 2.5rem;
+
+  padding-left: 2.7rem;
+  padding-top: 3rem;
+}
+
+.card p
+{
+  font-size: 1.604rem;
+  font-weight: 600;
+  color:#312D64;
+
+  width: 28rem;
+  height: 15.8rem;
+
+  padding-left: 2.7rem;
+  padding-top: 5rem;
+
+  text-align: left;
+}  
+
+form
+{
+  background-color: white;
+  
+  margin-top: 7.8rem;
+  border-radius: .8rem;
+  min-height: 56.5rem;
+
+  padding: 4rem;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 4.3rem
+
+}
+
+fieldset
+{
+  border: none;
+}
+
+.fieldset-wrapper
+{
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+form h1
+{
+  font-size: 3.2rem;
+  color: #B52184;
+
+  width: 33rem;
+  height: 4rem;
+
+  padding-left: 4rem;
+}
+
+.input-wrapper
+{
+  border: 1px solid #312D64;
+  border-radius: 1.6rem;
+
+  width: 35rem;
+  height: 4.9rem;
+}
+
+.input-wrapper img
+{
+  width: 2.4rem;
+  height: 2.4rem;
+
+  margin-top: 1rem;
+}
+
+.input-wrapper label
+{
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #312D64;
+  
+}   
+
+button
+{
+  background-color: #312D64;
+  border-radius: 1.6rem;
+
+  width: 15.1rem;
+  height: 4.5rem;
+
+  font-size: 1.4rem;
+  color: white;
+}
+
+.imagem
+{
+  width: 60rem;
+  height: 60rem;
+}
+
+footer
+{
+  background-color: #312D64;
+
+  width: 144rem;
+  height: 7.8rem;
+}
+
+.container p
+{
+  font-size: 2rem;
+  font-family: 'Mulish' , sans-serif;
+  
+  width: 140rem;
+  height: 6rem;
+
+  text-align: center;
+  color: white;
+
+  padding-top: 3rem;
+} 
